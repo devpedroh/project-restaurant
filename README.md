@@ -6,12 +6,12 @@
 
 ##Instruções
 
-Para iniciar o front-end:
-    1) Abrir o CMD com o caminho da pasta onde se encontra o projeto e ir na pasta frontend
-    2) Executar npm install
-    3) Executar npm run serve
-Para iniciar o back-end:
-    1) Criar o arquivo de ambiente .env com base no arquivo .env.example
-    2) Abrir o CMD com o caminho da pasta onde se encontra o projeto e ir na pasta backend
-    3) Executar composer install e npm install, respectivamente
-    4) Executar php artisan serve --port 8001
+<p>Para iniciar o front-end:</p>
+    <p>1) Abrir o CMD com o caminho da pasta onde se encontra o projeto e ir na pasta frontend</p>
+    <p>2) Executar npm install</p>
+    <p>3) Executar npm run serve</p>
+<p>Para iniciar o back-end:</p>
+    <p>1) Criar o arquivo de ambiente .env com base no arquivo .env.example</p>
+    <p>2) Abrir o CMD com o caminho da pasta onde se encontra o projeto e ir na pasta backend</p>
+    <p>3) Executar composer install e npm install, respectivamente</p>
+    <p>4) Executar php artisan serve --port 8001</p

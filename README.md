@@ -1,6 +1,6 @@
 ## Descrição
 
-    Sistema simples de controle de pedidos para um restautante feio em Vue.JS para o front-end e o back-end em Laravel (PHP). Usei o proprio Eloquent do laravel 
+    Sistema simples de controle de pedidos para um restaurante feito em Vue.JS para o front-end e o back-end em Laravel (PHP). Usei o proprio Eloquent do laravel 
     para montar os SQLs em MySQL.</p>
 
     Construi o sistema com um formato onde o front-end é enviado ao cliente e o back-end é controlado pela empresa responsável.</p>
